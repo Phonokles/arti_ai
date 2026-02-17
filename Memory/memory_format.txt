@@ -1,0 +1,13 @@
+All memory files must follow this format:
+
+Title:
+Topic:
+Owner:
+Created:
+Last_Update:
+
+Content:
+- Fact 1
+- Fact 2
+- Fact 3
+
